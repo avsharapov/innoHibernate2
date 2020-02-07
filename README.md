@@ -1,0 +1,1 @@
+# Hibernate 2 example

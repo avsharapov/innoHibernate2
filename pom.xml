@@ -9,7 +9,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <postgres.version>42.2.18</postgres.version>
+    <postgres.version>42.3.3</postgres.version>
     <hibernate.version>5.4.10.Final</hibernate.version>
     <logback.version>1.2.3</logback.version>
   </properties>
